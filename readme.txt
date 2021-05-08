@@ -1,5 +1,5 @@
 Brian Milenki
-CS 383 Assignment 2 - Clustering
+Assignment 2 - Clustering
 
 The diabetes.csv file should be in the directory as the main python script. 
 The video will also be saved in this directory. 
